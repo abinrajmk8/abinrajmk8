@@ -53,7 +53,6 @@ Currently pursuing a Bachelor's degree in Computer Science with a strong passion
 ### 📫 Contact
 
 - **Email**: abinrajmk8@gmail.com  
-- **LinkedIn**: [linkedin.com/in/abinrajmk8](https://linkedin.com/in/abinrajmk8)
 
 > 💬 *Feel free to reach out for collaboration, queries, or just a tech chat!*
 
