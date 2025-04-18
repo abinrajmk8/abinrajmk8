@@ -1,55 +1,70 @@
-# 👋 Hi, I'm Abin Raj
-
-I'm a passionate full-stack developer and cybersecurity enthusiast with a deep interest in building secure, scalable, and intelligent systems. I love blending web technologies with AI and security principles to solve real-world problems.
-
----
-
-## 🛡️ Projects Highlights
-
-### 🔐 [SecureShield](https://github.com/abinrajmk8/SecureShield)
-A web-based penetration testing and network security analysis framework with AI-driven insights, real-time alerts, and customizable scanning modules.
-
-### 📊 Data Structure Visualizer
-Interactive tool to visualize algorithms like disk scheduling, CPU scheduling, and more — ideal for students and educators.
+<h1 align="center">Hi 👋, I'm Abin Raj</h1>
+<h3 align="center">Cybersecurity enthusiast | Full Stack Developer | AI Explorer</h3>
 
 ---
 
-## 🧠 Skills & Tech Stack
-
-- **Frontend**: React.js, Tailwind CSS, HTML, CSS, JavaScript  
-- **Backend**: Node.js, Express, Python (Flask, Scapy)  
-- **Database**: MongoDB (Atlas), MySQL  
-- **Security**: Ethical Hacking, Network Scanning, ARP Spoofing Detection  
-- **Tools**: Git, Nmap, Postman, VS Code  
-- **AI/ML**: Gemini API, Prompt Engineering
+🎓 **Education**:  
+Currently pursuing a Bachelor's degree in Computer Science with a strong passion for cybersecurity, AI, and full-stack development.
 
 ---
 
-## 🎓 Certifications
+### 🛠️ Skills
 
-- Ethical Hacking Core with Python – *Udemy*  
-- SQLMap for Ethical Hackers – *Udemy*  
-- Foundation in Python Programming – *Infosys*  
-- Foundation in Generative AI – *Google*  
-- Prompt Design with Vertex AI – *Google*  
-- Web Development Bootcamp – *Udemy*  
-- Social Engineering – *Udemy*
+- **Languages**: Python, JavaScript, C, C++, SQL  
+- **Web Stack**: MERN (MongoDB, Express.js, React.js, Node.js)  
+- **Tools & Libraries**: Scapy, Nmap, JWT, PDFKit, Tailwind CSS, Bootstrap  
+- **Cloud & DB**: MongoDB Atlas, Firebase, Render  
+- **Other**: Git, Linux, REST APIs, Ethical Hacking, Networking Protocols
 
 ---
 
-## 🚀 What I'm Currently Working On
+### 📜 Certifications
 
-- Enhancing **SecureShield** with advanced threat detection and modular plugin support  
-- Exploring **Generative AI** for summarizing and analyzing security reports  
-- Building a **cyber lab automation suite** for red team & blue team exercises
-
----
-
-## 📫 Contact Me
-
-Feel free to reach out for collaboration, questions, or cool ideas!  
-📧 **abinrajmk8@gmail.com**
+- Ethical Hacking (Udemy)  
+- Ethical Hacking Core using Python (Udemy)  
+- SQLMap for Ethical Hackers (Udemy)  
+- Social Engineering (Udemy)  
+- Foundation in Python Programming (Infosys)  
+- Prompt Design using Vertex AI (Google)  
+- Web Development (Udemy)  
+- Foundation in Generative AI (Google)
 
 ---
 
-> *“Code securely. Automate smartly. Learn endlessly.”*
+### 🚀 Projects
+
+- **SecureShield**  
+  Web-based network security platform for scanning, reporting, and AI-based analysis.  
+  [🔗 GitHub Repo](https://github.com/abinrajmk8/SecureShield)
+
+- **ARP Spoof Detection**  
+  A Python tool for detecting ARP spoofing attacks using Scapy and MongoDB.  
+  [🔗 GitHub Repo](https://github.com/abinrajmk8/ARP-spoof-detection)
+
+- **DS Visualizer** (📦 *in progress*)  
+  Visualizes data structure algorithms like disk and CPU scheduling.
+
+- **MoveIt**  
+  Moving service landing page for a fictional startup. Created using HTML, CSS, and Bootstrap.  
+  [🔗 GitHub Repo](https://github.com/abinrajmk8/moveit)
+
+- **Celebrity Look-Alike**  
+  A fun front-end project mimicking a celebrity-matching startup. Built purely with HTML, CSS, and Bootstrap.  
+  [🔗 GitHub Repo](https://github.com/abinrajmk8/celebrity-look-alike)
+
+---
+
+### 📫 Contact
+
+- **Email**: abinrajmk8@gmail.com  
+- **LinkedIn**: [linkedin.com/in/abinrajmk8](https://linkedin.com/in/abinrajmk8)
+
+> 💬 *Feel free to reach out for collaboration, queries, or just a tech chat!*
+
+---
+
+### ⚡ Fun Fact
+
+I blend tech with creativity, love diving into security challenges, and enjoy building tools that help people stay safe online.
+
+---
