@@ -36,7 +36,7 @@ Currently pursuing a Bachelor's degree in Computer Science with a strong passion
 - **[SecureShield](https://github.com/abinrajmk8/SecureShield)**  
   Web-based network security platform for scanning, reporting, and AI-based analysis.
 
-- **[ARP Spoof Detection](https://github.com/abinrajmk8/ARP-spoof-detection)**  
+- **[ARP Spoof Detection](https://github.com/abinrajmk8/ArpSpoofDetector)**  
   A Python tool for detecting ARP spoofing attacks using Scapy and MongoDB.
 
 - **DS Visualizer** (📦 *in progress*)  
