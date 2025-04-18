@@ -33,24 +33,20 @@ Currently pursuing a Bachelor's degree in Computer Science with a strong passion
 
 ### 🚀 Projects
 
-- **SecureShield**  
-  Web-based network security platform for scanning, reporting, and AI-based analysis.  
-  [🔗 GitHub Repo](https://github.com/abinrajmk8/SecureShield)
+- **[SecureShield](https://github.com/abinrajmk8/SecureShield)**  
+  Web-based network security platform for scanning, reporting, and AI-based analysis.
 
-- **ARP Spoof Detection**  
-  A Python tool for detecting ARP spoofing attacks using Scapy and MongoDB.  
-  [🔗 GitHub Repo](https://github.com/abinrajmk8/ARP-spoof-detection)
+- **[ARP Spoof Detection](https://github.com/abinrajmk8/ARP-spoof-detection)**  
+  A Python tool for detecting ARP spoofing attacks using Scapy and MongoDB.
 
 - **DS Visualizer** (📦 *in progress*)  
   Visualizes data structure algorithms like disk and CPU scheduling.
 
-- **MoveIt**  
-  Moving service landing page for a fictional startup. Created using HTML, CSS, and Bootstrap.  
-  [🔗 GitHub Repo](https://github.com/abinrajmk8/moveit)
+- **[MoveIt](https://github.com/abinrajmk8/moveit)**  
+  Moving service landing page for a fictional startup. Created using HTML, CSS, and Bootstrap.
 
-- **Celebrity Look-Alike**  
-  A fun front-end project mimicking a celebrity-matching startup. Built purely with HTML, CSS, and Bootstrap.  
-  [🔗 GitHub Repo](https://github.com/abinrajmk8/celebrity-look-alike)
+- **[Celebrity Look-Alike](https://github.com/abinrajmk8/celebrity-look-alike)**  
+  A machine learning-based project created for a national-level tech fest, using Python and the VGG FaceNet model to match celebrities with users.
 
 ---
 
