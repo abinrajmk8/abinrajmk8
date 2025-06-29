@@ -10,11 +10,11 @@ Currently pursuing a Bachelor's degree in Computer Science with a strong passion
 
 ### 🛠️ Skills
 
-- **Languages**: Python, JavaScript, C, C++, SQL  
-- **Web Stack**: MERN (MongoDB, Express.js, React.js, Node.js)  
-- **Tools & Libraries**: Scapy, Nmap, JWT, PDFKit, Tailwind CSS, Bootstrap  
-- **Cloud & DB**: MongoDB Atlas, Firebase, Render  
-- **Other**: Git, Linux, REST APIs, Ethical Hacking, Networking Protocols
+- **Languages**: Python, JavaScript, C, C++, SQL ,Go
+- **Web Stack**: MERN (MongoDB, Express.js, React.js, Node.js)  ,FLASK, Django
+- **Tools & Libraries**: Scapy, Nmap, JWT, PDFKit, Tailwind CSS, Bootstrap,tensorflow , transformers ,BERT,torch.
+- **Cloud & DB**: MongoDB Atlas, Firebase, Render ,Neo4j,cypher 
+- **Other**: Git, Linux, REST APIs, Ethical Hacking, Networking Protocols,Natural language processing ,Machine Learning , LLM finetuning
 
 ---
 
@@ -47,6 +47,11 @@ Currently pursuing a Bachelor's degree in Computer Science with a strong passion
 
 - **[Celebrity Look-Alike](https://github.com/abinrajmk8/celebrity-look-alike)**  
   A machine learning-based project created for a national-level tech fest, using Python and the VGG FaceNet model to match celebrities with users.
+
+- **[Knowledge Graph Search Engine using Go ](https://github.com/abinrajmk8/wikigraph.git) **  fine tuned model using bert 
+    Explore Wikipedia like never before with Wikigraph — a fine-tuned BERT + Neo4j-powered knowledge engine.
+    Backed by LLMs and semantic embeddings, it understands your query and reveals intelligent entity relationships.
+    feel free to contact me for the Intent-bert model **[model link](https://huggingface.co/abinrajmk8/intent-bert)**
 
 ---
 
