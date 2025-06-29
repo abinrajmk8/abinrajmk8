@@ -48,7 +48,7 @@ Currently pursuing a Bachelor's degree in Computer Science with a strong passion
 - **[Celebrity Look-Alike](https://github.com/abinrajmk8/celebrity-look-alike)**  
   A machine learning-based project created for a national-level tech fest, using Python and the VGG FaceNet model to match celebrities with users.
 
-- **[Knowledge Graph Search Engine using Go ](https://github.com/abinrajmk8/wikigraph.git) **  fine tuned model using bert 
+- **[Knowledge Graph Search Engine using Go ](https://github.com/abinrajmk8/wikigraph.git)**
     Explore Wikipedia like never before with Wikigraph — a fine-tuned BERT + Neo4j-powered knowledge engine.
     Backed by LLMs and semantic embeddings, it understands your query and reveals intelligent entity relationships.
     feel free to contact me for the Intent-bert model **[model link](https://huggingface.co/abinrajmk8/intent-bert)**
