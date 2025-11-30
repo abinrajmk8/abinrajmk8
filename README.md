@@ -108,6 +108,7 @@ Currently pursuing a Bachelor's degree in Computer Science with a strong passion
 - Prompt Design using Vertex AI *(Google)*  
 - Web Development *(Udemy)*  
 - Foundation in Generative AI *(Google)*
+- Data Science For Engineers -NPTEL SwAYAM
 
 ---
 
