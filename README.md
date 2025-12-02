@@ -125,4 +125,4 @@ Currently pursuing a Bachelor's degree in Computer Science with a strong passion
 I blend tech with creativity, love diving into security challenges, and enjoy building tools that help people stay safe online.
 
 ---
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abinrajmk8)]
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abinrajmk8)
