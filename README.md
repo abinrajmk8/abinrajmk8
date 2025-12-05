@@ -7,7 +7,7 @@
 Currently pursuing a Bachelor's degree in Computer Science with a strong passion for cybersecurity, AI, and full-stack development.
 
 ---
- 
+  
 
 
 ### 🚀 Projects
