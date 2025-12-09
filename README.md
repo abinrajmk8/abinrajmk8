@@ -10,7 +10,7 @@ Currently pursuing a Bachelor's degree in Computer Science with a strong passion
     
  
 
-### 🚀 Projects
+### 🚀 Projects 
 
 - **[SecureShield](https://github.com/abinrajmk8/SecureShield)**  
   Web-based network security platform for scanning, reporting, and AI-based analysis.
