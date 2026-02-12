@@ -25,7 +25,7 @@ Currently pursuing a Bachelor's degree in Computer Science with a strong passion
 - **[Celebrity Look-Alike](https://github.com/abinrajmk8/celebrity-look-alike)**  
   ML app that maps faces to celebrities using FaceNet & Python (developed for a national tech fest).
 
-- **[DS Visualizer]** *(in progress)*  
+- **[DS Visualizer](https://github.com/abinrajmk8/ds-visualizer.git)** *(in progress)*  
   A modern tool to visualize CPU, disk scheduling, and basic DS algorithms.
 
 - **[MoveIt](https://github.com/abinrajmk8/moveit)**  
